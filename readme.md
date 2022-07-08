@@ -60,7 +60,7 @@ To summarize, the problems that we will try to answer are:
 
 2. What can the government (Including the Police) do to reduce the crime numbers in Boston and make it safer for the citizen?
 
-3. What can the citizen of Boston do to keep themselves safe?
+3. What can the citizen of Boston do to help keep Boston safe?
 <hr>
 
 ## **GOALS**
@@ -68,7 +68,7 @@ To summarize, the problems that we will try to answer are:
 
 2. Recommend an action to be taken by the government to make Boston a lot safer.
 
-3. Giving recommendation for citizen of Boston to avoid crime in their city.
+3. Giving recommendation for citizen of Boston to help reduce crime in their city.
 <hr>
 
 ## **EDA RESULTS**
