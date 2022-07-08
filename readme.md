@@ -5,6 +5,8 @@
 
 ## **Background**
 Boston, officially the City of Boston, is the capital and most populous city of the Commonwealth of Massachusetts in the United States and 24th-most populous city in the country. The city proper covers about 48.4 sq mi with a population of 675,647 in 2020, also making it the most populous city in New England.
+
+By being one of the populous city in the US and having a good database of crime that is accessible to public, We will try to analyze and gain insights from the database to be able to understand more about the crime, specifically in the city of Boston itself.
 <hr>
 
 ## **Data Understanding**
